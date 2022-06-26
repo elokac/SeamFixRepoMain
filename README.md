@@ -8,7 +8,7 @@ GeoStore performs authentication internally (auth framework shall be pluggable),
 
 A comprehensive [REST API](https://github.com/geosolutions-it/geostore/wiki/REST-API) allows an easy handling of internal resources, so that client side applications can easily query the store, while remote server side application can integrate with GeoStore using the GeoStoreClient, an utility java class that hides the REST communications complexities.
 
-Documentation
+Documentations
 -------------
 For more information check the [GeoStore wiki](https://github.com/geosolutions-it/geostore/wiki/Documentation-index) .
 
